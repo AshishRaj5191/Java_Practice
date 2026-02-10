@@ -23,8 +23,6 @@ public class Arrays {
         // for(String element: marks4) {
         //     System.out.println(element);
         // }
-
-        int size;
         
     }
 }
