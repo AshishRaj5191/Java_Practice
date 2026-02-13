@@ -35,8 +35,5 @@ public class ConstructorINinheritance {
         // Principle p = new Principle(5);
         // Teacher t = new Teacher(34, 45);
         // Student s = new Student(23,34,45);
-        Student s = new Student();
-
-         
     }
 }

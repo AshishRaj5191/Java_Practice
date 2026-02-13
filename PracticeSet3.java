@@ -20,7 +20,5 @@ public class PracticeSet3 {
         // Problem 5
         // String myString = "Hey,\nMy Name is Ashish Raj.\n\t\t\tI am learning Java Programming.";
         // System.out.println(myString);
-
-
     }
 }
