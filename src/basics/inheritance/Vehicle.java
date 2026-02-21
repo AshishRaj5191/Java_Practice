@@ -1,4 +1,4 @@
-package inheritance;
+package src.basics.inheritance;
 
 public class Vehicle {
     int eng_hp;

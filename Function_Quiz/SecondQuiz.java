@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Subtraction {
         static int subtract(int a, int b) {

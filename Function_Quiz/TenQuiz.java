@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Remainder1 {
     static void modulus(int a, int b) {

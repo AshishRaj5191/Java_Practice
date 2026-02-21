@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Division {
     static float divide(float a, float b) {

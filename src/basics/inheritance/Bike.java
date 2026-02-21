@@ -1,4 +1,4 @@
-package inheritance;
+package src.basics.inheritance;
 
 public class Bike {
     int key;

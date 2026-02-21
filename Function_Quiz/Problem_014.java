@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Merchant {
     void profit(int cp, int sp) {

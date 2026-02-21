@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Division1 {
     static void divide(int a, int b) {

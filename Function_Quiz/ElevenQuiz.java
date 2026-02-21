@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Check {
     // Return Type

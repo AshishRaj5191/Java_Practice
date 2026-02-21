@@ -1,4 +1,4 @@
-package polymorphism.overriding;
+package src.basics.polymorphism.overriding;
 
 public class Animal {
     void sound() {

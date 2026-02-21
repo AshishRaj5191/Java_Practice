@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Multiplication {
     static int multiply(int a, int b) {

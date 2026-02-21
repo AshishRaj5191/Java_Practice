@@ -1,4 +1,4 @@
-package inheritance;
+package src.basics.inheritance;
 
 public class InheritanceDemo {
     public static void main(String[] args) {

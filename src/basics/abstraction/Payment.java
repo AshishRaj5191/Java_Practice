@@ -1,4 +1,4 @@
-package abstraction;
+package src.basics.abstraction;
 
 public interface Payment
 {

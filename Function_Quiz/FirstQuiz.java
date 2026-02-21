@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 public class FirstQuiz {
     static int addTwoNumbers(int a, int b) {

@@ -1,3 +1,4 @@
+package Function_Quiz;
 import java.util.Scanner;
 class Calculator {
     int add(int n1, int n2) {
