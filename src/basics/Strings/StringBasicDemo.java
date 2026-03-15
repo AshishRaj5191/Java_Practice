@@ -5,6 +5,8 @@ public class StringBasicDemo {
         String name = "Ashish";
         String city = "Delhi";
 
+        System.out.println(name.toLowerCase());
+        System.out.println(name.toUpperCase());
         System.out.println("Name: " + name);
         System.out.println("City: " + city);
 
