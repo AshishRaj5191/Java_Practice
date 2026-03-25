@@ -14,6 +14,6 @@ public class Overloading_Type {
         int x = 5;
         long y = 10;
         Overloading_Type ob = new Overloading_Type();
-        System.out.println(ob.sums(x, x));
+        System.out.println(ob.sums(x, y));
     }
 }//bclsifd
