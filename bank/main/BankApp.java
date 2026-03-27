@@ -79,7 +79,6 @@ public class BankApp {
                 case 6:
                     System.exit(0);
             }
-            sc.close();
         }
     }
 }

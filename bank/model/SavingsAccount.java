@@ -6,6 +6,8 @@ public class SavingsAccount extends BankAccount {
 
     public SavingsAccount(String name, String dob) {
         super(name, dob);
+        setBalance(MIN_BALANCE);
+        addTransaction(MIN_BALANCE, "Initial Deposit");
     }
 
     @Override

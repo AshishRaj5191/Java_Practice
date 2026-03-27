@@ -92,7 +92,6 @@ public abstract class BankAccount implements BankServices {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter new password: ");
         password = sc.nextLine();
-        sc.close();
     }
 
     @Override
@@ -100,7 +99,6 @@ public abstract class BankAccount implements BankServices {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter new PIN: ");
         pin = sc.nextLine();
-        sc.close();
     }
 
     public void addTransaction(double amount, String type) {
