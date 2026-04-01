@@ -1,4 +1,4 @@
-package lab_assignment_02.unit2.task6;
+package lab_assignment_02.unit1.task6;
 import java.util.Scanner;
 
 public class PatternBasedBatchCodeGenerator {

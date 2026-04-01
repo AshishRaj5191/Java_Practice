@@ -1,4 +1,4 @@
-package lab_assignment_03.unit3.task7;
+package lab_assignment_03.unit1.task7;
 
 public class Main {
     public static void main(String[] args) {

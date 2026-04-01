@@ -1,4 +1,4 @@
-package lab_assignment_02.unit2.task4;
+package lab_assignment_02.unit1.task4;
 import java.util.Scanner;
 
 public class ClassStrengthAnalyzer {

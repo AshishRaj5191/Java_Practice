@@ -1,4 +1,4 @@
-package lab_assignment_03.unit3.task8;
+package lab_assignment_03.unit1.task8;
 
 public class Student {
 

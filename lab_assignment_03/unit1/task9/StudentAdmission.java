@@ -1,4 +1,4 @@
-package lab_assignment_03.unit3.task9;
+package lab_assignment_03.unit1.task9;
 
 public class StudentAdmission {
     // 🔹 Properties
